@@ -1,0 +1,20 @@
+.sidebar-container {
+    background-color:wheat;
+    width: 20%;
+    height: 19rem;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-top: 4rem;
+    margin-left: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+}
+
+.checkbox-input {
+    margin-right: 0.5rem;
+    margin-left: 1rem;
+}

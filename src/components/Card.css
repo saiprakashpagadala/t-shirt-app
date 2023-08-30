@@ -1,0 +1,30 @@
+.card-container {
+    height: 200px;
+    width: 200px;
+    background-color: wheat;
+    border-radius: 5px;
+    margin-top: 1rem;
+    margin-left: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 0.5rem;
+}
+
+.price-cart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.25rem;
+}
+
+.image-container {
+    height: 130px;
+    width: 100%;
+}
+
+.add-to-cart-button{
+    color: white;
+    background-color: #383737;
+    border: none;
+    border-radius: 5px;
+    padding: 0.25rem;
+}

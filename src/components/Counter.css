@@ -1,0 +1,35 @@
+.counter-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4rem;
+}
+
+.plus {
+    background-color: #3182ce;
+    width: 45px;
+    height: 25px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: none;
+}
+
+.count {
+    background-color: white;
+    width: 45px;
+    height: 25px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.minus {
+    background-color: #e53e3e;
+    width: 45px;
+    height: 25px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: none;
+}

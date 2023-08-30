@@ -1,0 +1,8 @@
+.main-content {
+    width: 100vw;
+    display: flex;
+}
+
+.products {
+    width: 100%;
+} 

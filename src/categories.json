@@ -1,0 +1,65 @@
+{
+  "Color": [
+    {
+      "id": 1,
+      "value": "Red",
+      "name": "red"
+    },
+    {
+      "id": 2,
+      "value": "Blue",
+      "name": "blue"
+    },
+    {
+      "id": 3,
+      "value": "Green",
+      "name": "green"
+    }
+  ],
+  "Gender": [
+    {
+      "id": 1,
+      "value": "Men",
+      "name": "men"
+    },
+    {
+      "id": 2,
+      "value": "Women",
+      "name": "women"
+    }
+  ],
+  "Price": [
+    {
+      "id": 1,
+      "value": "Rs 0 - Rs 250",
+      "name": "Between 0-250 Rs"
+    },
+    {
+      "id": 2,
+      "value": "Rs 250 - Rs 450",
+      "name": "Between 250-450 Rs"
+    },
+    {
+      "id": 3,
+      "value": "Rs 450",
+      "name": "Rs 450"
+    }
+  ],
+  "Type": [
+    {
+      "id": 1,
+      "value": "Polo",
+      "name": "polo"
+    },
+    {
+      "id": 2,
+      "value": "Hoodie",
+      "name": "hoodie"
+    },
+    {
+      "id": 3,
+      "value": "Basic",
+      "name": "basic"
+    }
+  ]
+}
